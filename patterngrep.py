@@ -6,8 +6,8 @@ from functools import partial
 from itertools import groupby
 from termcolor import colored
 
-from pattern.search import search, compile
-from pattern.en import Text, Sentence
+from pattern.search import compile
+from pattern.en import Sentence
 
 FIELDS = {field: i for i, field in enumerate(
     ['paragraphId', 'sentenceID', 'tokenId', 'beginOffset', 'endOffset',
@@ -62,6 +62,7 @@ def load_data(filenames):
 
 if __name__ == '__main__':
     sentences = load_data(glob.glob(sys.argv[1]))
+    pritn len(sentences)
     while True:
         search_pattern = raw_input("Pattern: ").strip()
         for id, match in grep(search_pattern, sentences):

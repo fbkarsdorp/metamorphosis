@@ -1,0 +1,304 @@
+paragraphId	sentenceID	tokenId	beginOffset	endOffset	whitespaceAfter	headTokenId	originalWord	normalizedWord	lemma	pos	ner	deprel	inQuotation	characterId
+0	0	0	0	5	S	1	There	There	there	EX	O	expl	false	-1
+0	0	1	6	9	S	-1	was	was	be	VBD	O	null	false	-1
+0	0	2	10	11	S	3	a	a	a	DT	O	det	false	-1
+0	0	3	12	15	S	1	man	man	man	NN	PERSON	nsubj	false	5
+0	0	4	16	22	S	3	called	called	call	VBN	O	partmod	false	-1
+0	0	5	23	28		4	Onund	Onund	Onund	NNP	O	dep	false	-1
+0	0	6	28	29	S	3	,	,	,	,	O	punct	false	-1
+0	0	7	30	33	S	8	who	who	who	WP	O	nsubj	false	-1
+0	0	8	34	39	S	3	dwelt	dwelt	dwell	VBP	O	rcmod	false	-1
+0	0	9	40	42	S	8	in	in	in	IN	O	prep	false	-1
+0	0	10	43	46	S	11	the	the	the	DT	O	det	false	-1
+0	0	11	47	52	S	9	south	south	south	NN	O	pobj	false	-1
+0	0	12	53	55	S	8	at	at	at	IN	O	prep	false	-1
+0	0	13	56	64		12	Mossfell	Mossfell	Mossfell	NNP	LOCATION	pobj	false	-1
+0	0	14	64	65	S	1	:	:	:	:	O	punct	false	-1
+0	0	15	66	68	S	18	he	he	he	PRP	O	nsubj	false	5
+0	0	16	69	72	S	18	was	was	be	VBD	O	cop	false	-1
+0	0	17	73	76	S	18	the	the	the	DT	O	det	false	-1
+0	0	18	77	87	S	1	wealthiest	wealthiest	wealthiest	JJS	O	parataxis	false	-1
+0	0	19	88	90	S	18	of	of	of	IN	O	prep	false	-1
+0	0	20	91	94		19	men	men	man	NNS	PERSON	pobj	false	3
+0	0	21	94	95	S	18	,	,	,	,	O	punct	false	-1
+0	0	22	96	99	S	18	and	and	and	CC	O	cc	false	-1
+0	0	23	100	103	S	18	had	had	have	VBD	O	conj	false	-1
+0	0	24	104	105	S	25	a	a	a	DT	O	det	false	-1
+0	0	25	106	116	S	23	priesthood	priesthood	priesthood	NN	O	dobj	false	-1
+0	0	26	117	122	S	27	south	south	south	RB	O	advmod	false	-1
+0	0	27	123	128	S	25	there	there	there	RB	O	advmod	false	-1
+0	0	28	129	134	S	25	about	about	about	IN	O	prep	false	-1
+0	0	29	135	138	S	30	the	the	the	DT	O	det	false	-1
+0	0	30	139	145		28	nesses	nesses	ness	NNS	O	pobj	false	-1
+0	0	31	145	146	S	1	.	.	.	.	O	punct	false	-1
+0	1	32	147	149	S	34	He	He	he	PRP	O	nsubjpass	false	5
+0	1	33	150	153	S	34	was	was	be	VBD	O	auxpass	false	-1
+0	1	34	154	161		-1	married	married	marry	VBN	O	null	false	-1
+0	1	35	161	162	S	34	,	,	,	,	O	punct	false	-1
+0	1	36	163	166	S	34	and	and	and	CC	O	cc	false	-1
+0	1	37	167	170	S	38	his	his	he	PRP$	O	poss	false	5
+0	1	38	171	175	S	40	wife	wife	wife	NN	PERSON	nsubjpass	false	-1
+0	1	39	176	179	S	40	was	was	be	VBD	O	auxpass	false	-1
+0	1	40	180	186	S	34	called	called	call	VBN	O	conj	false	-1
+0	1	41	187	193		40	Geirny	Geirny	Geirny	NNP	PERSON	xcomp	false	-1
+0	1	42	193	194	S	34	.	.	.	.	O	punct	false	-1
+0	2	43	195	198	S	46	She	She	she	PRP	O	nsubj	false	-1
+0	2	44	199	202	S	46	was	was	be	VBD	O	cop	false	-1
+0	2	45	203	206	S	46	the	the	the	DT	O	det	false	-1
+0	2	46	207	215	S	-1	daughter	daughter	daughter	NN	PERSON	null	false	1
+0	2	47	216	218	S	46	of	of	of	IN	O	prep	false	-1
+0	2	48	219	223		47	Gnup	Gnup	Gnup	NNP	O	pobj	false	-1
+0	2	49	223	224	S	48	,	,	,	,	O	punct	false	-1
+0	2	50	225	228	S	48	son	son	son	NN	PERSON	appos	false	2
+0	2	51	229	231	S	50	of	of	of	IN	O	prep	false	-1
+0	2	52	232	241		51	Mold-Gnup	Mold-Gnup	Mold-Gnup	NNP	O	pobj	false	-1
+0	2	53	241	242	S	52	,	,	,	,	O	punct	false	-1
+0	2	54	243	246	S	55	who	who	who	WP	O	nsubj	false	-1
+0	2	55	247	254	S	52	settled	settled	settle	VBD	O	rcmod	false	-1
+0	2	56	255	257	S	55	at	at	at	IN	O	prep	false	-1
+0	2	57	258	267		56	Grindwick	Grindwick	Grindwick	NNP	LOCATION	pobj	false	-1
+0	2	58	267	268	S	46	,	,	,	,	O	punct	false	-1
+0	2	59	269	271	S	46	in	in	in	IN	O	prep	false	-1
+0	2	60	272	275	S	62	the	the	the	DT	O	det	false	-1
+0	2	61	276	281	S	62	south	south	south	JJ	O	amod	false	-1
+0	2	62	282	289		59	country	country	country	NN	O	pobj	false	-1
+0	2	63	289	290	S	46	.	.	.	.	O	punct	false	-1
+0	3	64	291	296	S	65	Their	Their	they	PRP$	O	poss	false	-1
+0	3	65	297	301	S	67	sons	sons	son	NNS	PERSON	nsubj	false	0
+0	3	66	302	306	S	67	were	were	be	VBD	O	cop	false	-1
+0	3	67	307	312		-1	Raven	Raven	raven	NN	O	null	false	-1
+0	3	68	312	313	S	67	,	,	,	,	O	punct	false	-1
+0	3	69	314	317	S	67	and	and	and	CC	O	cc	false	-1
+0	3	70	318	326		67	Thorarin	Thorarin	Thorarin	NNP	PERSON	conj	false	-1
+0	3	71	326	327	S	67	,	,	,	,	O	punct	false	-1
+0	3	72	328	331	S	67	and	and	and	CC	O	cc	false	-1
+0	3	73	332	340		67	Eindridi	Eindridi	Eindridi	NNP	PERSON	conj	false	-1
+0	3	74	340	341	S	67	;	;	;	:	O	punct	false	-1
+0	3	75	342	346	S	79	they	they	they	PRP	O	nsubj	false	-1
+0	3	76	347	351	S	79	were	were	be	VBD	O	cop	false	-1
+0	3	77	352	355	S	79	all	all	all	DT	O	det	false	-1
+0	3	78	356	363	S	79	hopeful	hopeful	hopeful	JJ	O	amod	false	-1
+0	3	79	364	367		83	men	men	man	NNS	PERSON	nsubj	false	3
+0	3	80	367	368	S	79	,	,	,	,	O	punct	false	-1
+0	3	81	369	372	S	79	but	but	but	CC	O	cc	false	-1
+0	3	82	373	378	S	79	Raven	Raven	raven	NN	PERSON	conj	false	-1
+0	3	83	379	382	S	67	was	was	be	VBD	O	parataxis	false	-1
+0	3	84	383	385	S	83	in	in	in	IN	O	prep	false	-1
+0	3	85	386	389	S	86	all	all	all	DT	O	dep	false	-1
+0	3	86	390	394	S	84	wise	wise	wise	JJ	O	pobj	false	-1
+0	3	87	395	398	S	88	the	the	the	DT	O	det	false	-1
+0	3	88	399	404	S	86	first	first	first	JJ	ORDINAL	dep	false	-1
+0	3	89	405	407	S	88	of	of	of	IN	O	prep	false	-1
+0	3	90	408	412		89	them	them	they	PRP	O	pobj	false	-1
+0	3	91	412	413	S	67	.	.	.	.	O	punct	false	-1
+0	4	92	414	416	S	96	He	He	he	PRP	O	nsubj	false	-1
+0	4	93	417	420	S	96	was	was	be	VBD	O	cop	false	-1
+0	4	94	421	422	S	96	a	a	a	DT	O	det	false	-1
+0	4	95	423	426	S	96	big	big	big	JJ	O	amod	false	-1
+0	4	96	427	430	S	-1	man	man	man	NN	PERSON	null	false	5
+0	4	97	431	434	S	96	and	and	and	CC	O	cc	false	-1
+0	4	98	435	436	S	99	a	a	a	DT	O	det	false	-1
+0	4	99	437	443		96	strong	strong	strong	JJ	O	conj	false	-1
+0	4	100	443	444	S	99	,	,	,	,	O	punct	false	-1
+0	4	101	445	448	S	102	the	the	the	DT	O	det	false	-1
+0	4	102	449	459	S	99	sightliest	sightliest	sightliest	NN	O	appos	false	-1
+0	4	103	460	462	S	102	of	of	of	IN	O	prep	false	-1
+0	4	104	463	466	S	103	men	men	man	NNS	PERSON	pobj	false	3
+0	4	105	467	470	S	104	and	and	and	CC	O	cc	false	-1
+0	4	106	471	472	S	108	a	a	a	DT	O	det	false	-1
+0	4	107	473	477	S	108	good	good	good	JJ	O	amod	false	-1
+0	4	108	478	483		104	skald	skald	skald	NN	PERSON	conj	false	-1
+0	4	109	483	484	S	96	;	;	;	:	O	punct	false	-1
+0	4	110	485	488	S	96	and	and	and	CC	O	cc	false	-1
+0	4	111	489	493	S	115	when	when	when	WRB	O	advmod	false	-1
+0	4	112	494	496	S	115	he	he	he	PRP	O	nsubjpass	false	-1
+0	4	113	497	500	S	115	was	was	be	VBD	O	auxpass	false	-1
+0	4	114	501	506	S	115	fully	fully	fully	RB	O	advmod	false	-1
+0	4	115	507	512	S	96	grown	grown	grow	VBN	O	conj	false	-1
+0	4	116	513	515	S	117	he	he	he	PRP	O	nsubj	false	-1
+0	4	117	516	521	S	115	fared	fared	fare	VBD	O	ccomp	false	-1
+0	4	118	522	529	S	117	between	between	between	IN	O	prep	false	-1
+0	4	119	530	536	S	120	sundry	sundry	sundry	JJ	O	amod	false	-1
+0	4	120	537	542		118	lands	lands	land	NNS	O	pobj	false	-1
+0	4	121	542	543	S	115	,	,	,	,	O	punct	false	-1
+0	4	122	544	547	S	115	and	and	and	CC	O	cc	false	-1
+0	4	123	548	551	S	125	was	was	be	VBD	O	auxpass	false	-1
+0	4	124	552	556	S	125	well	well	well	RB	O	advmod	false	-1
+0	4	125	557	566	S	115	accounted	accounted	account	VBN	O	conj	false	-1
+0	4	126	567	569	S	125	of	of	of	IN	O	prep	false	-1
+0	4	127	570	578	S	129	wherever	wherever	wherever	WRB	O	advmod	false	-1
+0	4	128	579	581	S	129	he	he	he	PRP	O	nsubj	false	-1
+0	4	129	582	586		115	came	came	come	VBD	O	advcl	false	-1
+0	4	130	586	587	N	96	.	.	.	.	O	punct	false	-1
+0	5	131	588	594	S	-1	Thorod	Thorod	Thorod	NNP	O	null	false	-1
+0	5	132	595	598	S	133	the	the	the	DT	O	det	false	-1
+0	5	133	599	603		131	Sage	Sage	Sage	NNP	PERSON	dep	false	-1
+0	5	134	603	604	S	133	,	,	,	,	O	punct	false	-1
+0	5	135	605	608	S	136	the	the	the	DT	O	det	false	-1
+0	5	136	609	612	S	133	son	son	son	NN	PERSON	appos	false	2
+0	5	137	613	615	S	136	of	of	of	IN	O	prep	false	-1
+0	5	138	616	622		137	Eyvind	Eyvind	Eyvind	NNP	O	pobj	false	-1
+0	5	139	622	623	S	131	,	,	,	,	O	punct	false	-1
+0	5	140	624	628	S	141	then	then	then	RB	O	advmod	false	-1
+0	5	141	629	634	S	131	dwelt	dwelt	dwelt	NN	O	appos	false	-1
+0	5	142	635	637	S	141	at	at	at	IN	O	prep	false	-1
+0	5	143	638	644		142	Hjalli	Hjalli	Hjalli	NNP	LOCATION	pobj	false	-1
+0	5	144	644	645	S	131	,	,	,	,	O	punct	false	-1
+0	5	145	646	651	S	131	south	south	south	RB	O	advmod	false	-1
+0	5	146	652	654	S	145	in	in	in	IN	O	dep	false	-1
+0	5	147	655	660		146	Olfus	Olfus	Olfus	NNP	LOCATION	pobj	false	-1
+0	5	148	660	661	S	131	,	,	,	,	O	punct	false	-1
+0	5	149	662	666	S	152	with	with	with	IN	O	prep	false	-1
+0	5	150	667	673	S	149	Skapti	Skapti	Skapti	NNP	PERSON	pobj	false	4
+0	5	151	674	677	S	152	his	his	he	PRP$	O	poss	false	-1
+0	5	152	678	681		131	son	son	son	NN	PERSON	appos	false	2
+0	5	153	681	682	S	152	,	,	,	,	O	punct	false	-1
+0	5	154	683	686	S	152	who	who	who	WP	O	appos	false	-1
+0	5	155	687	690	S	154	was	was	be	VBD	O	dep	false	-1
+0	5	156	691	695	S	155	then	then	then	RB	O	advmod	false	-1
+0	5	157	696	699	S	158	the	the	the	DT	O	det	false	-1
+0	5	158	700	716	S	155	spokesman-at-law	spokesman-at-law	spokesman-at-law	NN	O	dep	false	-1
+0	5	159	717	719	S	158	in	in	in	IN	O	prep	false	-1
+0	5	160	720	727		159	Iceland	Iceland	Iceland	NNP	LOCATION	pobj	false	-1
+0	5	161	727	728	S	131	.	.	.	.	O	punct	false	-1
+0	6	162	729	732	S	163	The	The	the	DT	O	det	false	-1
+0	6	163	733	739	S	167	mother	mother	mother	NN	PERSON	nsubj	false	-1
+0	6	164	740	742	S	163	of	of	of	IN	O	prep	false	-1
+0	6	165	743	749	S	164	Skapti	Skapti	Skapti	NNP	LOCATION	pobj	false	-1
+0	6	166	750	753	S	167	was	was	be	VBD	O	cop	false	-1
+0	6	167	754	761		188	Ranveig	Ranveig	Ranveig	NNP	PERSON	nsubj	false	-1
+0	6	168	761	762	S	167	,	,	,	,	O	punct	false	-1
+0	6	169	763	771	S	167	daughter	daughter	daughter	NN	PERSON	appos	false	1
+0	6	170	772	774	S	169	of	of	of	IN	O	prep	false	-1
+0	6	171	775	779		170	Gnup	Gnup	Gnup	NNP	PERSON	pobj	false	-1
+0	6	172	779	780	S	171	,	,	,	,	O	punct	false	-1
+0	6	173	781	784	S	174	the	the	the	DT	O	det	false	-1
+0	6	174	785	788	S	171	son	son	son	NN	PERSON	appos	false	2
+0	6	175	789	791	S	174	of	of	of	IN	O	prep	false	-1
+0	6	176	792	801		175	Mold-Gnup	Mold-Gnup	Mold-Gnup	NNP	O	pobj	false	-1
+0	6	177	801	802	S	167	;	;	;	:	O	punct	false	-1
+0	6	178	803	806	S	167	and	and	and	CC	O	cc	false	-1
+0	6	179	807	813	S	167	Skapti	Skapti	Skapti	NNP	PERSON	conj	false	4
+0	6	180	814	817	S	167	and	and	and	CC	O	cc	false	-1
+0	6	181	818	821	S	182	the	the	the	DT	O	det	false	-1
+0	6	182	822	826	S	167	sons	sons	son	NNS	PERSON	conj	false	0
+0	6	183	827	829	S	182	of	of	of	IN	O	prep	false	-1
+0	6	184	830	835	S	183	Onund	Onund	onund	NN	MISC	pobj	false	-1
+0	6	185	836	840	S	188	were	were	be	VBD	O	cop	false	-1
+0	6	186	841	848		188	sisters	sisters	sister	NNS	PERSON	poss	false	-1
+0	6	187	848	849	S	186	'	'	``	POS	O	possessive	false	-1
+0	6	188	850	854		-1	sons	sons	son	NNS	PERSON	null	true	0
+0	6	189	854	855	S	188	.	.	.	.	O	punct	true	-1
+0	7	190	856	863	S	193	Between	Between	between	IN	O	prep	true	-1
+0	7	191	864	869	S	192	these	these	these	DT	O	det	true	-1
+0	7	192	870	877	S	190	kinsmen	kinsmen	kinsman	NNS	PERSON	pobj	true	-1
+0	7	193	878	881	S	-1	was	was	be	VBD	O	null	true	-1
+0	7	194	882	886	S	195	much	much	much	JJ	O	amod	true	-1
+0	7	195	887	897	S	193	friendship	friendship	friendship	NN	O	nsubj	true	-1
+0	7	196	898	900	S	197	as	as	as	RB	O	advmod	true	-1
+0	7	197	901	905	S	193	well	well	well	RB	O	advmod	true	-1
+0	7	198	906	908	S	197	as	as	as	IN	O	dep	true	-1
+0	7	199	909	916		198	kinship	kinship	kinship	NN	O	pobj	true	-1
+0	7	200	916	917	N	193	.	.	.	.	O	punct	true	-1
+0	8	201	918	920	S	233	At	At	at	IN	O	prep	true	-1
+0	8	202	921	925	S	203	this	this	this	DT	O	det	true	-1
+0	8	203	926	930	S	201	time	time	time	NN	O	pobj	true	-1
+0	8	204	931	938		203	Thorfin	Thorfin	Thorfin	NNP	PERSON	dep	true	-1
+0	8	205	938	939	S	233	,	,	,	,	O	punct	true	-1
+0	8	206	940	943	S	207	the	the	the	DT	O	det	true	-1
+0	8	207	944	947	S	233	son	son	son	NN	PERSON	nsubj	true	2
+0	8	208	948	950	S	207	of	of	of	IN	O	prep	true	-1
+0	8	209	951	960		208	Selthorir	Selthorir	Selthorir	NNP	LOCATION	pobj	true	-1
+0	8	210	960	961	S	209	,	,	,	,	O	punct	true	-1
+0	8	211	962	967	S	209	dwelt	dwelt	dwelt	NN	O	appos	true	-1
+0	8	212	968	970	S	211	at	at	at	IN	O	prep	true	-1
+0	8	213	971	978		212	Red-Mel	Red-Mel	Red-Mel	NNP	O	pobj	true	-1
+0	8	214	978	979	S	207	,	,	,	,	O	punct	true	-1
+0	8	215	980	983	S	207	and	and	and	CC	O	cc	true	-1
+0	8	216	984	987	S	207	had	had	have	VBD	O	conj	true	-1
+0	8	217	988	993	S	218	seven	seven	seven	CD	NUMBER	num	true	-1
+0	8	218	994	998		216	sons	sons	son	NNS	PERSON	dobj	true	0
+0	8	219	998	999	S	218	,	,	,	,	O	punct	true	-1
+0	8	220	1000	1003	S	224	who	who	who	WP	O	nsubj	true	-1
+0	8	221	1004	1008	S	224	were	were	be	VBD	O	cop	true	-1
+0	8	222	1009	1012	S	224	all	all	all	PDT	O	predet	true	-1
+0	8	223	1013	1016	S	224	the	the	the	DT	O	det	true	-1
+0	8	224	1017	1028	S	218	hopefullest	hopefullest	hopefullest	NN	O	rcmod	true	-1
+0	8	225	1029	1031	S	224	of	of	of	IN	O	prep	true	-1
+0	8	226	1032	1035		225	men	men	man	NNS	PERSON	pobj	true	3
+0	8	227	1035	1036	S	207	;	;	;	:	O	punct	true	-1
+0	8	228	1037	1040	S	207	and	and	and	CC	O	cc	true	-1
+0	8	229	1041	1043	S	207	of	of	of	IN	O	conj	true	-1
+0	8	230	1044	1048	S	229	them	them	they	PRP	O	pobj	true	-1
+0	8	231	1049	1053	S	233	were	were	be	VBD	O	cop	true	-1
+0	8	232	1054	1060		233	theseâ	theseâ	theseâ	RB	O	advmod	true	-1
+0	8	233	1060	1061		-1		$	$	$	O	null	true	-1
+0	8	234	1061	1062		233		''	''	''	O	punct	true	-1
+0	8	235	1062	1070		233	Thorgils	Thorgils	Thorgils	NNPS	O	prep	false	-1
+0	8	236	1070	1071	S	235	,	,	,	,	O	punct	false	-1
+0	8	237	1072	1078		235	Eyjolf	Eyjolf	Eyjolf	NNP	O	conj	false	-1
+0	8	238	1078	1079	S	233	,	,	,	,	O	punct	false	-1
+0	8	239	1080	1083	S	233	and	and	and	CC	O	cc	false	-1
+0	8	240	1084	1090		233	Thorir	Thorir	Thorir	NNP	PERSON	conj	false	-1
+0	8	241	1090	1091	S	233	;	;	;	:	O	punct	false	-1
+0	8	242	1092	1095	S	233	and	and	and	CC	O	cc	false	-1
+0	8	243	1096	1100	S	248	they	they	they	PRP	O	nsubj	false	-1
+0	8	244	1101	1105	S	248	were	were	be	VBD	O	cop	false	-1
+0	8	245	1106	1109	S	248	all	all	all	PDT	O	predet	false	-1
+0	8	246	1110	1113	S	248	the	the	the	DT	O	det	false	-1
+0	8	247	1114	1122	S	248	greatest	greatest	greatest	JJS	O	amod	false	-1
+0	8	248	1123	1126	S	233	men	men	man	NNS	PERSON	conj	false	3
+0	8	249	1127	1130	S	248	out	out	out	IN	O	prep	false	-1
+0	8	250	1131	1136		249	there	there	there	RB	O	pobj	false	-1
+0	8	251	1136	1137	S	233	.	.	.	.	O	punct	false	-1
+0	9	252	1138	1141	S	260	But	But	but	CC	O	cc	false	-1
+0	9	253	1142	1147	S	254	these	these	these	DT	O	det	false	-1
+0	9	254	1148	1151	S	260	men	men	man	NNS	PERSON	nsubj	false	3
+0	9	255	1152	1155	S	259	who	who	who	WP	O	nsubjpass	false	-1
+0	9	256	1156	1160	S	259	have	have	have	VBP	O	aux	false	-1
+0	9	257	1161	1164	S	259	now	now	now	RB	DATE	advmod	false	-1
+0	9	258	1165	1169	S	259	been	been	be	VBN	O	auxpass	false	-1
+0	9	259	1170	1175	S	254	named	named	name	VBN	O	rcmod	false	-1
+0	9	260	1176	1181	S	-1	lived	lived	live	VBD	O	null	false	-1
+0	9	261	1182	1185	S	260	all	all	all	DT	O	dobj	false	-1
+0	9	262	1186	1188	S	260	at	at	at	IN	O	prep	false	-1
+0	9	263	1189	1192	S	262	one	one	one	CD	NUMBER	pobj	false	-1
+0	9	264	1193	1196	S	263	and	and	and	CC	O	cc	false	-1
+0	9	265	1197	1200	S	267	the	the	the	DT	O	det	false	-1
+0	9	266	1201	1205	S	267	same	same	same	JJ	O	amod	false	-1
+0	9	267	1206	1210		263	time	time	time	NN	O	conj	false	-1
+0	9	268	1210	1211	N	260	.	.	.	.	O	punct	false	-1
+0	10	269	1212	1216	S	272	Next	Next	next	JJ	O	advmod	false	-1
+0	10	270	1217	1219	S	269	to	to	to	TO	O	dep	false	-1
+0	10	271	1220	1224	S	270	this	this	this	DT	O	pobj	false	-1
+0	10	272	1225	1231	S	-1	befell	befell	befall	VBD	O	null	false	-1
+0	10	273	1232	1237	S	274	those	those	those	DT	O	det	false	-1
+0	10	274	1238	1245		272	tidings	tidings	tiding	NNS	O	dobj	false	-1
+0	10	275	1245	1246	S	272	,	,	,	,	O	punct	false	-1
+0	10	276	1247	1250	S	277	the	the	the	DT	O	det	false	-1
+0	10	277	1251	1255	S	272	best	best	best	JJS	O	appos	false	-1
+0	10	278	1256	1260	S	281	that	that	that	WDT	O	nsubj	false	-1
+0	10	279	1261	1265	S	281	ever	ever	ever	RB	O	advmod	false	-1
+0	10	280	1266	1270	S	281	have	have	have	VBP	O	aux	false	-1
+0	10	281	1271	1279	S	277	befallen	befallen	befall	VBN	O	rcmod	false	-1
+0	10	282	1280	1284	S	281	here	here	here	RB	O	advmod	false	-1
+0	10	283	1285	1287	S	281	in	in	in	IN	O	prep	false	-1
+0	10	284	1288	1295		283	Iceland	Iceland	Iceland	NNP	LOCATION	pobj	false	-1
+0	10	285	1295	1296	S	272	,	,	,	,	O	punct	false	-1
+0	10	286	1297	1301	S	291	that	that	that	IN	O	complm	false	-1
+0	10	287	1302	1305	S	289	the	the	the	DT	O	det	false	-1
+0	10	288	1306	1311	S	289	whole	whole	whole	JJ	O	amod	false	-1
+0	10	289	1312	1316	S	291	land	land	land	NN	O	nsubj	false	-1
+0	10	290	1317	1323	S	291	became	became	become	VBD	O	cop	false	-1
+0	10	291	1324	1333		272	Christian	Christian	christian	JJ	MISC	ccomp	false	-1
+0	10	292	1333	1334	S	291	,	,	,	,	O	punct	false	-1
+0	10	293	1335	1338	S	291	and	and	and	CC	O	cc	false	-1
+0	10	294	1339	1343	S	297	that	that	that	IN	O	complm	false	-1
+0	10	295	1344	1347	S	296	all	all	all	DT	O	det	false	-1
+0	10	296	1348	1352	S	297	folk	folk	folk	NN	PERSON	nsubj	false	-1
+0	10	297	1353	1357	S	291	cast	cast	cast	VBD	O	conj	false	-1
+0	10	298	1358	1361	S	297	off	off	off	RP	O	prt	false	-1
+0	10	299	1362	1365	S	301	the	the	the	DT	O	det	false	-1
+0	10	300	1366	1369	S	301	old	old	old	JJ	O	amod	false	-1
+0	10	301	1370	1375		297	faith	faith	faith	NN	O	dobj	false	-1
+0	10	302	1375	1376	N	272	.	.	.	.	O	punct	false	-1
