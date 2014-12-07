@@ -40,7 +40,7 @@ def grep(pattern, sentences):
     for id, sentence in sentences:
         match = pattern.search(sentence)
         if match:
-            yield id, color_hit(sentence, match)
+            yield id, color_hit(sentence, match), match
 
 def color_hit(sentence, matches):
     done = set()
@@ -63,6 +63,9 @@ def load_data(filenames):
 if __name__ == '__main__':
     sentences = load_data(glob.glob(sys.argv[1]))
     while True:
+        count = 0
         search_pattern = raw_input("Pattern: ").strip()
-        for id, match in grep(search_pattern, sentences):
-            print colored(id, "blue"), match
+        for id, sentence, match in grep(search_pattern, sentences):
+            print colored(id, "blue"), sentence
+            count += 1
+        print 'HITS:', count
