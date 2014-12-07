@@ -62,7 +62,6 @@ def load_data(filenames):
 
 if __name__ == '__main__':
     sentences = load_data(glob.glob(sys.argv[1]))
-    print len(sentences)
     while True:
         search_pattern = raw_input("Pattern: ").strip()
         for id, match in grep(search_pattern, sentences):
